@@ -1,0 +1,9 @@
+/data/grow/*/funds/
+/data/grow/*/index/
+/data/grow/*/stock/
+/src/__pycache__
+/data/tick/
+/data/stocks/
+/data/stock/
+/data/yfinance_stock
+
